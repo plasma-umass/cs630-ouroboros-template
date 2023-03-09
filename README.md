@@ -1,5 +1,5 @@
 COMPSCI 630 Spring 2023
-# Ouroboros Python Optimizer Project
+# Ouroboros Python Optimizer Project - Due April 7
 
 To get started, please [read through the project description](description.md).
 
