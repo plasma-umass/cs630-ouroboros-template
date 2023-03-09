@@ -1,6 +1,7 @@
-# COMPSCI 630 Spring 2023 Ouroboros Python Optimizer Project
+COMPSCI 630 Spring 2023
+# Ouroboros Python Optimizer Project
 
-To get started, please [read through the instructions](instructions.md).
+To get started, please [read through the project description](description.md).
 
 ### Team Members
 (please fill out)
