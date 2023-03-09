@@ -197,7 +197,7 @@ foo()
 ```
 then Python emits an `UnboundLocalError`, saying that the variable `x` was referenced before assignment.
 This is because **two** different variables `x` were defined: one global, and another
-within `x`.
+within `foo`.
 
 You can modify a variable's scope using `global` and `nonlocal` statements.
 If example above was changed to:
