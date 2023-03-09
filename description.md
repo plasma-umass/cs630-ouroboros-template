@@ -1,4 +1,4 @@
-# Project #1 - Optimizing Python Code (due April 7)
+# Project #1 - Optimizing Python Code
 
 <img src="images/Serpiente_alquimica.jpg?raw=True" align="right" width="10%"/>
 
