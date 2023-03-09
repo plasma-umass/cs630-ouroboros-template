@@ -301,7 +301,9 @@ If you save your tests as `test_optimize.py`, you could run them as
 python3 -m pytest -vv
 ```
 
-We will provide a minimum set of tests that your implementation should pass.
+The file [test_minimum.py](test_minimum.py) contains a minimum set of tests that your
+implementation should pass.
+
 You are also welcome to share your tests with other groups (but **not** your optimizer code!).
 
 ## Other details
